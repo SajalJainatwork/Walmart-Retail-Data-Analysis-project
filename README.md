@@ -11,3 +11,7 @@ Create the dashboard which should include the following in the insights.
 8.Show the information where you can write about the dataset.
 9.Show the branding.
 10. Regional quarterly average profit.
+
+Notes:-
+Walmart Rental Data Analysis is Coloured
+Walmart Rental Data Analysis Part2 is Gray Coloured
