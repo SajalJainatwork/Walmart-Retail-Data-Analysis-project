@@ -1,6 +1,6 @@
 # Walmart-Rental-Data-Analysis
 
-This is a Walamart retail dataset containing information about some retail transactions.The dataset has xxxxx recprds for x locations etc.
+This is a Walmart retail dataset containing information about some retail transactions.The dataset has xxxxx recprds for x locations etc.
 
 Here we are looking to find the trends and data for different region and states. Show the insights about profit, sales, discounts over different area. 
 Create the dashboard which should include the following in the insights.
