@@ -18,3 +18,5 @@ Create the dashboard which should include the following in the insights.
 Notes:-
 Walmart Retail Data Analysis is Coloured
 Walmart Retail Data Analysis Part2 is Gray Coloured
+
+[Link to Tableau](https://public.tableau.com/app/profile/sajal.jain4190/viz/WalmartRentalDataAnalysis/Dashboard1)
