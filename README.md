@@ -19,6 +19,8 @@ Notes:-
 Walmart Retail Data Analysis is Coloured
 Walmart Retail Data Analysis Part2 is Gray Coloured
 
+[Link to Dataset](https://drive.google.com/file/d/1AmpTGttdPZa_bxSdXodFsTIaHsOSP62h/view)
+
 [Link to Tableau](https://public.tableau.com/app/profile/sajal.jain4190/viz/WalmartRentalDataAnalysis/Dashboard1)
 
-[Link to Dataset](https://drive.google.com/file/d/1AmpTGttdPZa_bxSdXodFsTIaHsOSP62h/view)
+
