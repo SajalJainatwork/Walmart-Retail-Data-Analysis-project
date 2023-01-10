@@ -1,4 +1,4 @@
-# Walmart-Rental-Data-Analysis
+# Walmart-Retail-Data-Analysis
 
 This is a Walmart retail dataset containing information about some retail transactions.The dataset has xxxxx recprds for x locations etc.
 
@@ -16,5 +16,5 @@ Create the dashboard which should include the following in the insights.
 10. Regional quarterly average profit.
 
 Notes:-
-Walmart Rental Data Analysis is Coloured
-Walmart Rental Data Analysis Part2 is Gray Coloured
+Walmart Retail Data Analysis is Coloured
+Walmart Retail Data Analysis Part2 is Gray Coloured
