@@ -1,6 +1,6 @@
 # Walmart-Retail-Data-Analysis
 
-This is a Walmart retail dataset containing information about some retail transactions.The dataset has xxxxx recprds for x locations etc.
+This is a Walmart retail dataset containing information about some retail transactions.The dataset has xxxxx records for x locations etc.
 
 Here we are looking to find the trends and data for different region and states. Show the insights about profit, sales, discounts over different area. 
 Create the dashboard which should include the following in the insights.
@@ -21,6 +21,8 @@ Walmart Retail Data Analysis Part2 is Gray Coloured
 
 [Link to Dataset](https://drive.google.com/file/d/1AmpTGttdPZa_bxSdXodFsTIaHsOSP62h/view)
 
-[Link to Tableau](https://public.tableau.com/app/profile/sajal.jain4190/viz/WalmartRentalDataAnalysis/Dashboard1)
+[Link to Tableau Dasboard1](https://public.tableau.com/app/profile/sajal.jain4190/viz/WalmartRentalDataAnalysis/Dashboard1)
+
+[Link to Tableau Dasboard2](https://public.tableau.com/app/profile/sajal.jain4190/viz/WalmartRentalDataAnalysisPart2/Dashboard1)
 
 
