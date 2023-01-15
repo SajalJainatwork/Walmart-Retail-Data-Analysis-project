@@ -1,18 +1,18 @@
 # Walmart-Retail-Data-Analysis
 
 This is a Walmart retail dataset containing information about some retail transactions.The dataset has xxxxx records for x locations etc.
-In this project, I have found the trends and data for different region and states. Show the insights about profit, sales, discounts over different area. 
-Create the dashboard which should include the following in the insights.
-1.Share the trend of state wise profit.
-2.Show the distribution of average profit by states.Analyze which state is generating more average.
-3.profit and which is going in loss.
-4.In which age,range,company is getting maximum profit.
-5.Show the average sales.
-6.Show the average profit.
-7.Show the average discount.
-8.Show the information where you can write about the dataset.
-9.Show the branding.
-10. Regional quarterly average profit.
+In this project, I have found the trends and data for different region and states. Showed the insights about profit, sales, discounts over different area.
+Created the dashboard which should include the following in the insights.
+1.Top10ProductSalesDashboardColoured the trend of state wise profit.
+2.Showed the distribution of average profit by states.Analyzed which state was generating more average.
+3.Profit and which was going in loss.
+4.In which age,range,company was getting maximum profit.
+5.Showed the average sales.
+6.Showed the average profit.
+7.Showed the average discount.
+8.Showed the information I can wrote about the dataset.
+9.Showed the branding.
+10.Regional quarterly average profit.
 
 Notes:-
 Walmart Retail Data Analysis is Coloured
