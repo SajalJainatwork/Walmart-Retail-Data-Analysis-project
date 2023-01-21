@@ -1,5 +1,7 @@
 # Walmart-Retail-Data-Analysis
-
+The project was to analyze customer data for a retail company.The goal was to understand customer behaviour and identify patterns and trends that could be used to improve the company's marketng and sales strategies.
+Here's an verview of the steps I took:
+Data Collection:I collected data from various sources,such as sales transactions,customer  demographics,and marketing campaigns.
 This is a Walmart retail dataset containing information about some retail transactions.The dataset has xxxxx records for x locations etc.
 In this project, I have found the trends and data for different region and states. Showed the insights about profit, sales, discounts over different area.
 Created the dashboard which should include the following in the insights.
@@ -14,8 +16,6 @@ Created the dashboard which should include the following in the insights.
 9.Showed the branding.
 10.Regional quarterly average profit.
 
-Notes:-
-Walmart Retail Data Analysis is Coloured
 Walmart Retail Data Analysis Part2 is Gray Coloured
 
 [Walmart Dataset](https://drive.google.com/file/d/1AmpTGttdPZa_bxSdXodFsTIaHsOSP62h/view)
